@@ -21,3 +21,4 @@ function addNumbers(){
 }
 addNumbersResult = addNumbers(1, 2, 3, 4, 5);
 console.log("Sum of 1, 2, 3, 4, and 5 is: " + addNumbersResult);
+console.log("hello test this is a test js code")
